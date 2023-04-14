@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**YasminCozaciuc/YasminCozaciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <a hrfe="https://github.com/YasminCozaciuc">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=YasminCozaciuc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminCozaciuc&layout=compact&langs_count=16&theme=radical"/>
+</div>
